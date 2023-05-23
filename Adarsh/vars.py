@@ -24,7 +24,7 @@ class Var(object):
     NO_PORT = bool(getenv('NO_PORT', False))
     SHORTENER_API = str(getenv('SHORTENER_API', 'f1bd1af7329d84ea9b7fbd346fe0c0280d937a36'))
     SHORTENER_WEBSITE = str(getenv('SHORTENER_WEBSITE', 'tnshort.net'))
-    FDQN = str(getenv('FDQN', 'https://filetolinkda.onrender.com'))
+    FDQN = str(getenv('FDQN', 'https://poscg-sonukumarkrbbu65.koyeb.app/'))
 
     APP_NAME = None
     OWNER_USERNAME = str(getenv('OWNER_USERNAME'))
